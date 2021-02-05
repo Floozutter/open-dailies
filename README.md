@@ -1,2 +1,2 @@
-# open-dailies
-A web app to publicly showcase how lazy I am!
+# quest-blog
+a quest log for the web!
